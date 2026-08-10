@@ -1,0 +1,6 @@
+*.exe
+*.o
+*.out
+mirror_save.txt
+.vscode/
+.idea/
